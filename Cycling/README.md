@@ -16,4 +16,3 @@ Download the notebook, csv and graphGiro.py to experiment with the visuals.
 
 Repeat above scraping scripts and visual notebooks for Tour De France and the Spanish Vuelta
 
-<a href="https://imgflip.com/gif/18mlea"><img src="https://i.imgflip.com/18mlea.gif" title="made at imgflip.com"/></a>
