@@ -16,3 +16,4 @@ Download the notebook, csv and graphGiro.py to experiment with the visuals.
 
 Repeat above scraping scripts and visual notebooks for Tour De France and the Spanish Vuelta
 
+![Alt Text](https://github.com/N-Johnston/Visualisations/Cycling/Images/image1.gif)
