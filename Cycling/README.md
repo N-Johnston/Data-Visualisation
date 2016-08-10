@@ -3,13 +3,13 @@
 ### Interactive Giro d'Italia 2016
 
 This folder contains:
-- Python script to download Giro Italia data from official website xml files
+- Python script to scrape Giro Italia data from official website xml files
 - Python script to perform data transformations and produce graphs
 - Giro Data scraped using giroScrape.py
 - Giro ipynb file - Download file to enable interaction
 - Pickle file - contains list of stage names from Giro
 
-[Link to nbviewer](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Cycling/Giro.ipynb)
+[Static view in nbviewer](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Cycling/Giro.ipynb)
 
 The ipython notebook is viewable on github ONLY in static HTML format. The demo's below show the available interactivity within the notebook.
 Download the notebook, csv and graphGiro.py to experiment with the visuals.
