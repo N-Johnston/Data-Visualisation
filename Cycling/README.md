@@ -9,7 +9,9 @@ This folder contains:
 - Giro ipynb file - Download file to enable interaction
 - Pickle file - contains list of stage names from Giro
 
-The ipython notebook is viewable on github ONLY in static HTML format. This means all the interaction I have built in is unfrotunately not available. Three types of graphs are available through use of radio buttons and any rider or team can be viewed.
+[Link to nbviewer](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Cycling/Giro.ipynb)
+
+The ipython notebook is viewable on github ONLY in static HTML format. The demo's below show the available interactivity within the notebook.
 Download the notebook, csv and graphGiro.py to experiment with the visuals.
 
 ### Demo of Highlighting Individual Rider
