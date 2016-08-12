@@ -15,7 +15,9 @@ PDF contains the visual spatio-temporal anlysis with accompanying narrative.
 [nbview](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/ACLED/Libya%20Tableau%20Analysis.ipynb) of Ipython notebook contains a collection of some of the data visualisation techniques used.
 
 Example Image - Event Map: 
+
 Hue - Type of event 
+
 Size - Count of fatalities
 
-[](Images/PopulationLibya.png)
+![Event Map](https://github.com/N-Johnston/Visualisations/blob/master/ACLED/Images/EventType.png)
