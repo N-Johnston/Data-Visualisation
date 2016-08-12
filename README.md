@@ -11,6 +11,7 @@ Topics Included:
 
 Packages and Software used:
 
-- Matplotlib
-- Seaborn
+- Python
+    - Matplotlib
+    - Seaborn
 - Tableau
