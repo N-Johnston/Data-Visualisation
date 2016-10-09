@@ -12,7 +12,7 @@ This work was motivated by my recent discovery of pandas datareader which allows
 Nbviewer of ipython notebooks, all contain individual stock charts, table of stock performance YTD and shared graphs shown below:
 - [Guardian](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Stock%20Performance/Notebooks/Guardian%20Stock%20Picks%202016.ipynb)
 - [Telegraph](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Stock%20Performance/Notebooks/Telegraph%20Stock%20Picks%202016.ipynb)
-- [H&L](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Stock%20Performance/Notebooks/Hargeaves%20Stock%20Picks%202016.ipynb)
+- [H&L](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Stock%20Performance/Notebooks/Hargreaves%20Stock%20Picks%202016.ipynb)
 
 As the time of writing, Oct 10th, the Guardian is performing particularly poorly with a near double digit negative return. The telegraph have returned a slightly lower than inflation return while H&L have greatly benefitted from the sale of ARM holdings and thus have an average postive return.
 
