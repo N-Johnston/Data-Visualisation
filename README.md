@@ -8,10 +8,5 @@ Topics Included:
     - Giro d'Italia
  - [ACLED](https://github.com/N-Johnston/Data-Visualisation/blob/master/ACLED)
     - Visual Analysis of Armed Conflict in Libya
-
-Packages and Software used:
-
-- Python
-    - Matplotlib
-    - Seaborn
-- Tableau
+ - [Stock Picker](https://github.com/N-Johnston/Data-Visualisation/blob/master/Stock%20Performance)
+    - Analysis of Guardian, Telegraph and H&L 2016 Stock Predictions
