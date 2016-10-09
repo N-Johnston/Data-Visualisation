@@ -1,24 +1,23 @@
-## Cycling Visualisations
+## Stock Picks 2016
 
-### Interactive Giro d'Italia 2016
+Every year business analysts working at various journalism organisations will share their stock prediction for the forthcoming year. How much trust should be given to these professional opinions? I've taken a look at two prominent British print media organisations, the Guardian and Telegraph. Both organisations chose 10 stocks to follow through 2016. In addition I've looked at professional brokerage service Hargreaves and Lansdown and judged the performance of their 5 to watch.
 
-This folder contains:
-- Python script to scrape Giro Italia data from official website xml files
-- Python script to perform data transformations and produce graphs
-- Giro Data scraped using giroScrape.py
-- Giro ipynb file - Download file to enable interaction
-- Pickle file - contains list of stage names from Giro
+Links to predictions:
+- Guardian - https://www.theguardian.com/business/2015/dec/31/stock-markets-the-guardians-tips-for-2016
+- Telegraph - http://www.telegraph.co.uk/finance/markets/12069867/The-Telegraphs-share-tips-for-2016.html
+- Hargreaves and Lansdown - http://www.yourmoney.com/investing/five-stocks-to-watch-in-2016/
 
-[Static view in nbviewer](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Cycling/Giro.ipynb)
+This work was motivated by my recent discovery of pandas datareader which allows users in 1 line of code to scrape stock data from yahoo or google finance: 
 
-The ipython notebook is viewable on github ONLY in static HTML format. The demo's below show the available interactivity within the notebook.
-Download the notebook, csv and graphGiro.py to experiment with the visuals.
+Nbviewer of ipython notebooks, all contain individual stock charts, table of stock performance YTD and shared graphs shown below:
+- [Guardian](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Stock%20Performance/Guardian%20Stock%20Picks%202016.ipynb)
+- [Telegraph](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Stock%20Performance/Telegraph%20Stock%20Picks%202016-Copy1.ipynb)
+- [H&L](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Stock%20Performance/Hargeaves%20Stock%20Picks%202016-Copy1.ipynb)
+
+
 
 ### Demo of Highlighting Individual Rider
-![Demo](https://github.com/N-Johnston/Visualisations/blob/master/Cycling/Data/Gifs/riders.gif)
-
-### Demo of Highlighting Team
-![Demo](https://github.com/N-Johnston/Visualisations/blob/master/Cycling/Data/Gifs/teams.gif)
+![Img](https://github.com/N-Johnston/Visualisations/blob/master/Stock20%Performance/guardian.png)
 
 
 
