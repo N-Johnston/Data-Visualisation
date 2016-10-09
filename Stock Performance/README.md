@@ -11,15 +11,19 @@ This work was motivated by my recent discovery of pandas datareader which allows
 
 Nbviewer of ipython notebooks, all contain individual stock charts, table of stock performance YTD and shared graphs shown below:
 - [Guardian](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Stock%20Performance/Notebooks/Guardian%20Stock%20Picks%202016.ipynb)
-- [Telegraph](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Stock%20Performance/Notebooks/Telegraph%20Stock%20Picks%202016-Copy1.ipynb)
-- [H&L](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Stock%20Performance/Notebooks/Hargeaves%20Stock%20Picks%202016-Copy1.ipynb)
+- [Telegraph](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Stock%20Performance/Notebooks/Telegraph%20Stock%20Picks%202016.ipynb)
+- [H&L](https://nbviewer.jupyter.org/github/N-Johnston/Visualisations/blob/master/Stock%20Performance/Notebooks/Hargeaves%20Stock%20Picks%202016.ipynb)
 
+As the time of writing, Oct 10th, the two media organisations both have negative portfolios with the Guardian performing particularly poorly. H&L have greatly benefitted from the sale of ARM holdings and thus have an average postive return.
 
+Average Ytd Gains:
+Guardian : 9.47%
+Telegraph : -0.48%
+H&L : +
 
 ### Stock Performance (YTD)
 ![Img](https://github.com/N-Johnston/Visualisations/blob/master/Stock%20Performance/Images/guardian.png)
 ![Img](https://github.com/N-Johnston/Visualisations/blob/master/Stock%20Performance/Images/telegraph.png)
 ![Img](https://github.com/N-Johnston/Visualisations/blob/master/Stock%20Performance/Images/hl.png)
-
 
 
